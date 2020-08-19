@@ -47,14 +47,13 @@
 - ca : 칼슘 농도
 - na : 나트륨 농도
 
-</br>
 ▶test.csv(10MB)
 - id : 구분자
 - rho : 측정 거리 (단위: mm)
 - src : 광원 스펙트럼 (650 nm ~ 990 nm)
 - dst : 측정 스펙트럼 (650 nm ~ 990 nm)
 
-</br>
+
 ▶sample_submission.csv(1MB)
 -  hhb : 디옥시헤모글로빈 농도
 - hbo2 : 옥시헤모글로빈 농도
