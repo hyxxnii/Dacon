@@ -25,13 +25,13 @@
 
 [3] Golovynskyi, Sergii, et al. "Optical windows for head tissues in near‐infrared and short‐wave infrared regions: Approaching transcranial light applications." *Journal of biophotonics 11.12, e201800141 (2018)*
 
-</br></br>
+</br>
 
 ※ 본 경진대회는 코리아스타트업포럼에서 운영하는 인공지능 분야 개방형 혁신 네트워크 i-CON(innovation – Communication Open Network) 사업의 일환으로 기획ㆍ운영함
 </br>
 </br>
 
-데이터 설명</br>
+**데이터 설명**</br></br>
 ▶해결해야 하는 문제</br>
 광원, 측정 스펙트럼으로부터 뇌 내 성분 농도 산출
 </br>
@@ -54,7 +54,7 @@
 - src : 광원 스펙트럼 (650 nm ~ 990 nm)
 - dst : 측정 스펙트럼 (650 nm ~ 990 nm)
 
-
+</br>
 ▶sample_submission.csv(1MB)
 -  hhb : 디옥시헤모글로빈 농도
 - hbo2 : 옥시헤모글로빈 농도
