@@ -3,15 +3,14 @@
 - 팀 : 김영현
 - 평가지표 : MAE
 - **리더보드 점수**
-- 1차 : 1.2916108618
-- 2차 : 3.3637031435
-- 3차 : 1.4431578511
-- 4차 : 1.1699360463
-- 5차 : 1.1615214245
-- 6차 : 1.0672809597
-- 최종 : 1.2779
-	- 128등 
-</br>
+	- 1차 : 1.2916108618
+	- 2차 : 3.3637031435
+	- 3차 : 1.4431578511
+	- 4차 : 1.1699360463
+	- 5차 : 1.1615214245
+	- 6차 : 1.0672809597
+	- 최종 : 1.2779
+		- 128등   
 - - -
 1. 배경 
 
@@ -35,8 +34,8 @@
 
 [2] Perrey, Stéphane. "Non-invasive NIR spectroscopy of human brain function during exercise." *Methods 45.4, 289-299 (2008)*
 
-[3] Golovynskyi, Sergii, et al. "Optical windows for head tissues in near‐infrared and short‐wave infrared regions: Approaching transcranial light applications." *Journal of biophotonics 11.12, e201800141 (2018)*
-
+[3] Golovynskyi, Sergii, et al. "Optical windows for head tissues in near‐infrared and short‐wave infrared regions: Approaching transcranial light applications." *Journal of biophotonics 11.12, e201800141 (2018)*   
+   
 **데이터 설명**</br></br>
 ▶해결해야 하는 문제</br>
 광원, 측정 스펙트럼으로부터 뇌 내 성분 농도 산출
